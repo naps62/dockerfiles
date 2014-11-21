@@ -1,3 +1,8 @@
+# Deprecated
+
+This repo is deprecated. I migrated this to my company's org. The new repo is
+[here](https://github.com/groupbuddies/dockerfiles)
+
 # Docker demos
 
 A set of demos using Docker and Vagrant for deploying web apps
